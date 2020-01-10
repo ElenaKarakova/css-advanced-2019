@@ -1,0 +1,32 @@
+.site-nav {
+    text-align: right;
+    padding-top: 0.5em;
+
+}
+
+.site-nav ul {
+    display: flex;;
+}
+
+.site-nav ul li {
+display: block;
+margin: 0 0.7em;
+
+}
+
+.site-nav a {
+    display: block;
+    padding: 0.5em 1em;
+    background: rgb(95, 86, 86);
+    color: #333;
+    text-decoration: none;
+
+
+}
+
+.site-nav a:hover {
+    background: #090;
+    color: #FFF;
+
+
+}
